@@ -13,14 +13,14 @@ This repository contains the Jupyter notebook and supporting files used for the 
 
 1. Open the repository folder in a Python environment.
 2. Install the required packages:
-`bash
+```bash
 pip install jupyter pandas numpy scikit-learn xgboost lime matplotlib seaborn
-`
+```
 
 3. Start Jupyter Notebook:
-`bash
+```bash
 jupyter notebook
-`
+```
 
 4. Open ch4v2.ipynb and run the cells in order.
 
